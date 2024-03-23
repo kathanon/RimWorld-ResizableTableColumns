@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4433967D-87EF-402C-9222-EC94F875E1EC}") = "ResizableTableColumns", "Source\ResizableTableColumns.csproj", "{EFAEED44-6CEE-4DD7-BE21-0AB5CAC2C00E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAEED44-6CEE-4DD7-BE21-0AB5CAC2C00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAEED44-6CEE-4DD7-BE21-0AB5CAC2C00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAEED44-6CEE-4DD7-BE21-0AB5CAC2C00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAEED44-6CEE-4DD7-BE21-0AB5CAC2C00E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25ACB337-540D-43E5-8846-E26CCEBB4D79}
+	EndGlobalSection
+EndGlobal
